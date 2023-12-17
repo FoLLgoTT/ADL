@@ -1,5 +1,5 @@
-static const float adl = 0.0005; // set ADL
-static const float adlMax = 0.4; // set maximum possible ADL (defines the size of the square)
+static const float adl = 0.001; // set ADL (0.5 means 50 %)
+static const float adlMax = 0.5; // set maximum possible ADL (defines the size of the square)
 
 
 float4 p0 : register(c0);
