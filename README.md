@@ -4,7 +4,7 @@ This is a shader that creates an ADL test pattern for arbitrary ADL (Average Dis
 Examples:
 
 1 % ADL:
-![Alt text](1%.png)
+![Alt text](ADL_example_1.png)
 
 10 % ADL:
-![Alt text](10%.png)
+![Alt text](ADL_example_10.png)
