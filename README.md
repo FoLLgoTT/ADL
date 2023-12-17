@@ -7,4 +7,4 @@ Examples:
 ![Alt text](ADL_example_1.png)
 
 10 % ADL:
-![Alt text](ADL_example_10.png)
+![Alt text](ADL_example_2.png)
